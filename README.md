@@ -27,3 +27,17 @@
 
 **Dashboard Interaction**
 1. Happiness Status Overview
+<img width="1722" height="705" alt="image" src="https://github.com/user-attachments/assets/a0cade75-26b7-4f36-aa37-493520ac6933" />
+
+2. Effect of GDP per Capita on Happiness Scores
+<img width="1080" height="757" alt="image" src="https://github.com/user-attachments/assets/ac9bec8c-4b73-4334-91b2-a2fc5f0618d0" />
+
+3. Effect of Freedom, Social Support and Healthy Life Expactancy in Top Happy Countries
+<img width="1367" height="716" alt="image" src="https://github.com/user-attachments/assets/ced7425b-fd3c-4b19-8b37-44a67f3a0679" />
+
+4. Effect of Freedom, Social Support and Healthy Life Expactancy in Top Happy Countries
+<img width="1328" height="682" alt="image" src="https://github.com/user-attachments/assets/8149a9b2-a4ec-488e-b38d-6fc2e49f1166" />
+
+
+
+
