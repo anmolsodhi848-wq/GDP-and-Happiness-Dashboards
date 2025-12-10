@@ -1,7 +1,9 @@
-Factors Behind Happiness
+**Factors Behind Happiness**
 
 **Project Objective**
+
 “The objective of this project is to analyze and visualize global happiness patterns from 2015–2023 to uncover regional disparities and identify the world’s top and bottom performing countries and uncovering the factors behind the happiness patterns.”
+
 
 **KPIs (Key Performance Indicators)**
 1. Average Happiness by Region
@@ -16,10 +18,12 @@ Factors Behind Happiness
 10. GDP per Capita (level + trend)
 11. GDP–Happiness Relationship
 
+
 **Process**
 1. Verify data for any missing values and anomalies, and sort out the same.
 2. Made sure data is consistent and clean with respect to data type, data format and values used.
 3. Created separate tableua visualization and made separate tableau dashboards.
+
 
 **Dashboard Interaction**
 1. Happiness Status Overview
