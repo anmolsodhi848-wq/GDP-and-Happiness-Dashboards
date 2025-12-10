@@ -4,17 +4,17 @@ Factors Behind Happiness
 “The objective of this project is to analyze and visualize global happiness patterns from 2015–2023 to uncover regional disparities and identify the world’s top and bottom performing countries and uncovering the factors behind the happiness patterns.”
 
 **KPIs (Key Performance Indicators)**
-✓ Average Happiness by Region
-✓ Average Happiness by Country
-✓ Top 10 & Bottom 10 Happiness Rankings
-✓ Year-over-Year Happiness Score Trends
-✓ Freedom Index
-✓ Social Support Index
-✓ Healthy Life Expectancy Index
-✓ Generosity Index
-✓ Contribution of these factors across top and bottom countries
-✓ GDP per Capita (level + trend)
-✓ GDP–Happiness Relationship
+1. Average Happiness by Region
+2. Average Happiness by Country
+3. Top 10 & Bottom 10 Happiness Rankings
+4. Year-over-Year Happiness Score Trends
+5. Freedom Index
+6. Social Support Index
+7. Healthy Life Expectancy Index
+8. Generosity Index
+9. Contribution of these factors across top and bottom countries
+10. GDP per Capita (level + trend)
+11. GDP–Happiness Relationship
 
 **Process**
 1. Verify data for any missing values and anomalies, and sort out the same.
